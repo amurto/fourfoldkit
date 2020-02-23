@@ -1,0 +1,12 @@
+.container-div {
+    margin-top: 50px;
+    /* margin-left: 30px; */
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.sidediv {
+    max-width: 25% !important
+}

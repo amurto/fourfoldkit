@@ -1,0 +1,40 @@
+  
+.chart-card {
+    padding: 30px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 500px;
+    margin: 1rem;
+    position: relative ;
+    width: 40vw;
+  }
+  
+.chart-card {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24) !important;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1) !;
+}
+  
+.chart-card:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22) !important;
+}
+
+.chart-card-1 {
+    padding: 30px;
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    margin: 1rem;
+    position: relative;
+    width: 50vw;
+  }
+  
+.chart-card-1 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24) !important;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1) !;
+}
+  
+.chart-card-1:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22) !important;
+}
