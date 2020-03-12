@@ -49,7 +49,7 @@ app.use((error, req, res, next) => {
 
 mongoose
   .connect(
-    `mongodb+srv://djloc:djloc@loc0-qmccj.mongodb.net/test?retryWrites=true&w=majority`,
+    `mongodb+srv://XXXX:XXXX@loc0-qmccj.mongodb.net/test?retryWrites=true&w=majority`,
     { 
       useCreateIndex: true,
       useNewUrlParser: true, 
