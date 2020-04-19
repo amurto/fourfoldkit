@@ -18,7 +18,7 @@ Web Portal for recruiters to filter and interact directly with students
 - More effective placement process for the companies that wish to recruit students from the college.
 - A web portal for the teachers for student grading.
 
-In addition to these primary features implemented, the teachers' performance is also evaluated using sentimental analysis from the feed back received from the students.
+In addition to these primary features implemented, the teachers' performance is also evaluated using sentimental analysis from the feed back received from the students. The wflask server for resume parsing can be found [here](https://github.com/amurto/joblo).
 
 ### Webapp Images
 ![Image of Webapp](templates/demo.jpg)
